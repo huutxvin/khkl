@@ -1,0 +1,1 @@
+<?php return ["id" => "Mã khách hàng","name" => "Tên khách hàng","address" => "Địa chỉ","company" => "Công ty ","email" => "Email","phone_number" => "Số điện thại","logo" => "Hình ảnh","actions" => "Thao tác","delete_success" => "Xóa thành công","delete_error" => "Xóa không thành công","overview" => "Xem trước","edit" => "Sửa","delete" => "Xóa",];

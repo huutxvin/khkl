@@ -1,0 +1,1 @@
+<?php return ["id" => "Client ID","name" => "Name","address" => "Address","company" => "Company","email" => "Email","phone_number" => "Phone number","logo" => "Logo","actions" => "Actions","delete_success" => "Client successfully deleted!","delete_error" => "Client delete failed","overview" => "Overview","edit" => "Edit","delete" => "Delete",];
